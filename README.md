@@ -24,12 +24,7 @@ Jullie kregen de opdracht van e-commerce bedrijf Pixie om hun design te implemen
 
 
 ## Praktisch:
-- Vragen kunnen gesteld worden op [mattermost](https://mattermost.rub-i-con.be/syntra-fsd-19a/channels/html-css).
-- Maak een fork van [mijn repo](https://github.com/syntra-mvl-front-end-2019-2021/grid-oef-pixie)
-  - Log in op github
-  - Ga naar bovenstaande [link](https://github.com/syntra-mvl-front-end-2019-2021/grid-oef-pixie)
-  - Klik rechtsboven op `Fork`
-  - Open de terminal in de map waar je de syntra oefeningen opslaat (niet de html-css-{naam} map)
+  - Zorg dat je terminal geopend is in een map waar geen ander git repo zit
   - Gebruik het commando `git clone {url van je repo} {gewenste naam van map}`
   - Open VsCode in `{gewenste naam van map}`
 - **Commit en push regelmatig (minstens 1/uur)**
